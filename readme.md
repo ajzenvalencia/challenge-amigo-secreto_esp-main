@@ -47,7 +47,6 @@ Este desafío busca mejorar tu capacidad de razonamiento lógico y resolución d
 
 Si necesitas repasar conceptos o resolver dudas, aquí tienes algunos recursos útiles:
 - [Documentación de MDN Web Docs sobre JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
-- [Curso Practicando Lógica de Programación](#)
 
 ## Vista Previa
 
